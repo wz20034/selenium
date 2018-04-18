@@ -1,0 +1,44 @@
+1524047307273	geckodriver	INFO	geckodriver 0.20.0 (0ac3698a74a7b1a742682b8e704f1f418df827ed 2018-03-13)
+1524047307282	geckodriver	INFO	Listening on 127.0.0.1:10281
+1524047307794	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.dWTNCw0MNCs7"
+1524047308838	Marionette	INFO	Enabled via --marionette
+1524047311570	Marionette	INFO	Listening on port 10286
+1524047312090	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19752, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1524047315833	geckodriver::marionette	ERROR	Failed to stop browser process
+: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cscho&json=1&p=3&sid=1454_21119_26176&req=2&csor=7&pwd=w3csch&cb=jQuery110209620942756974625_1524046137836&_=1524046137844, line 1: TypeError: jQuery110209620942756974625_1524046137836 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cschoo&json=1&p=3&sid=1454_21119_26176&req=2&csor=8&pwd=w3cscho&cb=jQuery110209620942756974625_1524046137836&_=1524046137845, line 1: TypeError: jQuery110209620942756974625_1524046137836 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3cschool&json=1&p=3&sid=1454_21119_26176&req=2&csor=9&pwd=w3cschoo&cb=jQuery110209620942756974625_1524046137836&_=1524046137846, line 1: TypeError: jQuery110209620942756974625_1524046137836 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3csc&json=1&p=3&sid=1454_21119_26176&req=2&csor=5&pwd=w3cs&cb=jQuery110209620942756974625_1524046137836&_=1524046137842, line 1: TypeError: jQuery110209620942756974625_1524046137836 is not a function
+JavaScript error: https://sp0.baidu.com/5a1Fazu8AA54nxGko9WTAnF6hhy/su?wd=w3csch&json=1&p=3&sid=1454_21119_26176&req=2&csor=6&pwd=w3csc&cb=jQuery110209620942756974625_1524046137836&_=1524046137843, line 1: TypeError: jQuery110209620942756974625_1524046137836 is not a function
+[Child 8076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8076, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 2476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1524046143085	geckodriver::marionette	ERROR	Failed to stop browser process
+s
+: Channel error: cannot send/recv
+
+1523738063876	geckodriver::marionette	ERROR	Failed to stop browser process
+r:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+1523724645338	geckodriver::marionette	ERROR	Failed to stop browser process

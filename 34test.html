@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html" charset="utf-8">
+	<script language="javascript">
+		function showNone()
+		{
+			document.getElementById('div1').style.display = "none";
+		}
+		function showBlock()
+		{
+			document.getElementById('div1').style.display = "block";
+		}
+	</script>
+
+	<style type="text/css">
+		#div1
+		{
+			position: absolute;
+			width: 200px;
+			height: 115px;
+			z-index: 1;
+			left: 28px;
+			top: 34px;
+			background: #0033cc;
+		}
+	</style>
+</head>
+<body>
+	<div id="div1"></div>
+	<a onmouseover="showBlock()" onmouseout="showNone()" id="link1">鼠标指过来1</a>
+	<a onmouseover="showBlock()" onmouseout="showNone()" id="link2">鼠标指过来2</a>
+	<p>鼠标悬浮这里的时候，蓝色图形框消失了</p>
+</body>
+</html>
